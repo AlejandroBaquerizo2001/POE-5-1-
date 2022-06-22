@@ -11,7 +11,7 @@ Repositorio solo para la clase de POE 5-1
     // https://github.com/googlecreativelab/teachablemachine-community/tree/master/libraries/image
 
     // the link to your model provided by Teachable Machine export panel
-    const URL = "https://teachablemachine.withgoogle.com/models/Ndihc30sn/";
+    const URL = "{{URL}}";
 
     let model, webcam, labelContainer, maxPredictions;
 
